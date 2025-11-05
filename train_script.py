@@ -13,7 +13,6 @@ print("🚀 Running training script...")
 # Initialize DagsHub MLflow tracking
 load_dotenv()
 dagshub.init(repo_owner="manavpatel571", repo_name="mlops-project", mlflow=True)
-mlflow.set_tracking_uri("https://dagshub.com/manavpatel571/mlops-demo-student.mlflow")
 
 # Load dataset
 iris = load_iris()
