@@ -1,18 +1,11 @@
 import mlflow
 import mlflow.sklearn
-import dagshub
-from dotenv import load_dotenv
 from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
 
-
 print("🚀 Running training script...")
-
-# Initialize DagsHub MLflow tracking
-load_dotenv()
-dagshub.init(repo_owner="manavpatel571", repo_name="mlops-project", mlflow=True)
 
 # Load dataset
 iris = load_iris()
