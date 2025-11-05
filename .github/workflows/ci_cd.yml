@@ -14,8 +14,8 @@ jobs:
 
     env:
       # 🔐 DagsHub MLflow credentials
-      MLFLOW_TRACKING_URI: https://dagshub.com/aakanshadijendra3-pixel/mlops-demo.mlflow
-      MLFLOW_TRACKING_USERNAME: aakanshadijendra3-pixel
+      MLFLOW_TRACKING_URI: https://dagshub.com/manavpatel571/mlops-project.mlflow
+      MLFLOW_TRACKING_USERNAME: manavpatel571
       MLFLOW_TRACKING_PASSWORD: ${{ secrets.DAGSHUB_TOKEN }}
 
     steps:
