@@ -21,7 +21,7 @@ acc = accuracy_score(y_test, preds)
 print(f"✅ Model trained successfully. Accuracy: {acc:.2f}")
 
 # Log to MLflow (DagsHub)
-mlflow.set_tracking_uri("https://dagshub.com/aakanshadijendra3-pixel/mlops-demo.mlflow")
+mlflow.set_tracking_uri("https://dagshub.com/manavpatel571/mlops-demo-student.mlflow")
 mlflow.set_experiment("CI-CD-Training")
 with mlflow.start_run(run_name="CI-CD-Pipeline-Run"):
     mlflow.log_param("model_type", "RandomForestClassifier")
