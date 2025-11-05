@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/adijendx/OneDrive%20-%20Intel%20Corporation/Documents/MLOPS/mlruns/826412763467474429/c298b4a4c13943f5b66d9cf7b933b733/artifacts
+end_time: 1759476875889
+entry_point_name: ''
+experiment_id: '826412763467474429'
+lifecycle_stage: active
+run_id: c298b4a4c13943f5b66d9cf7b933b733
+run_name: Logistic Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759476870040
+status: 3
+tags: []
+user_id: adijendx

@@ -1,0 +1,18 @@
+aliases: []
+creation_timestamp: 1759476875840
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1759476875840
+metrics: null
+model_id: m-ce56063e16dc4519ac099447ecffbab3
+name: Logistic Regression
+params: null
+run_id: c298b4a4c13943f5b66d9cf7b933b733
+run_link: null
+source: models:/m-ce56063e16dc4519ac099447ecffbab3
+status: READY
+status_message: null
+storage_location: file:///c:/Users/adijendx/OneDrive%20-%20Intel%20Corporation/Documents/MLOPS/mlruns/826412763467474429/models/m-ce56063e16dc4519ac099447ecffbab3/artifacts
+user_id: null
+version: 1

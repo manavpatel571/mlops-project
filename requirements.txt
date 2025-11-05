@@ -1,0 +1,29 @@
+# Core ML
+numpy
+pandas
+scikit-learn
+
+# Experiment tracking
+mlflow
+
+# Serving (choose one or both)
+flask
+fastapi
+uvicorn
+
+# Utility
+requests
+python-dotenv
+xgboost
+mlflow
+fastapi
+uvicorn
+scikit-learn
+xgboost
+fastapi
+uvicorn
+pandas
+mlflow
+pydantic
+imbalanced-learn
+

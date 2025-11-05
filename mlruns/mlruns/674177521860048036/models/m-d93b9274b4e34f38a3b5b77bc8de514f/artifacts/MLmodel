@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/adijendx/OneDrive%20-%20Intel%20Corporation/Documents/MLOPS/mlruns/mlruns/674177521860048036/models/m-d93b9274b4e34f38a3b5b77bc8de514f/artifacts
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.13.7
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: xgb
+    xgb_version: 3.0.5
+mlflow_version: 3.4.0
+model_id: m-d93b9274b4e34f38a3b5b77bc8de514f
+model_size_bytes: 104055
+model_uuid: m-d93b9274b4e34f38a3b5b77bc8de514f
+prompts: null
+run_id: c814771b469c47af8a5f96e8f94edf3b
+utc_time_created: '2025-10-08 13:02:24.252257'

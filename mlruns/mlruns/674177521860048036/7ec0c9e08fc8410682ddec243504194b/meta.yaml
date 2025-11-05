@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/adijendx/OneDrive%20-%20Intel%20Corporation/Documents/MLOPS/mlruns/mlruns/674177521860048036/7ec0c9e08fc8410682ddec243504194b/artifacts
+end_time: 1759928579239
+entry_point_name: ''
+experiment_id: '674177521860048036'
+lifecycle_stage: active
+run_id: 7ec0c9e08fc8410682ddec243504194b
+run_name: XGBClassifier With SMOTE
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759928572625
+status: 3
+tags: []
+user_id: adijendx

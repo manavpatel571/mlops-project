@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/adijendx/OneDrive%20-%20Intel%20Corporation/Documents/MLOPS/mlruns/826412763467474429/60e65e1b93804e5caca0c0d6309f9f3a/artifacts
+end_time: 1759476838625
+entry_point_name: ''
+experiment_id: '826412763467474429'
+lifecycle_stage: active
+run_id: 60e65e1b93804e5caca0c0d6309f9f3a
+run_name: Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759476832897
+status: 3
+tags: []
+user_id: adijendx

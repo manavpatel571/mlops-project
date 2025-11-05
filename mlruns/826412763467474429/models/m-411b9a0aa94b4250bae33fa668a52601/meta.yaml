@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/adijendx/OneDrive%20-%20Intel%20Corporation/Documents/MLOPS/mlruns/826412763467474429/models/m-411b9a0aa94b4250bae33fa668a52601/artifacts
+creation_timestamp: 1759476892229
+experiment_id: '826412763467474429'
+last_updated_timestamp: 1759476901107
+model_id: m-411b9a0aa94b4250bae33fa668a52601
+model_type: null
+name: model
+source_run_id: 710925566dc9448ab131ed7f481a804e
+status: 2
+status_message: null

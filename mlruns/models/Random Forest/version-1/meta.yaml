@@ -1,0 +1,18 @@
+aliases: []
+creation_timestamp: 1759476881913
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1759476881913
+metrics: null
+model_id: m-7e3964dec5c44f5eb9ff898075848216
+name: Random Forest
+params: null
+run_id: c6314f59e3e447bc80ac45fa345a61a0
+run_link: null
+source: models:/m-7e3964dec5c44f5eb9ff898075848216
+status: READY
+status_message: null
+storage_location: file:///c:/Users/adijendx/OneDrive%20-%20Intel%20Corporation/Documents/MLOPS/mlruns/826412763467474429/models/m-7e3964dec5c44f5eb9ff898075848216/artifacts
+user_id: null
+version: 1

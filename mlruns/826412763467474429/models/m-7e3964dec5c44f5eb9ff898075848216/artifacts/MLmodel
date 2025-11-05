@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/adijendx/OneDrive%20-%20Intel%20Corporation/Documents/MLOPS/mlruns/826412763467474429/models/m-7e3964dec5c44f5eb9ff898075848216/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.4.0
+model_id: m-7e3964dec5c44f5eb9ff898075848216
+model_size_bytes: 38692
+model_uuid: m-7e3964dec5c44f5eb9ff898075848216
+prompts: null
+run_id: c6314f59e3e447bc80ac45fa345a61a0
+utc_time_created: '2025-10-03 07:34:36.087782'

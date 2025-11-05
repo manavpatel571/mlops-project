@@ -1,0 +1,18 @@
+aliases: []
+creation_timestamp: 1759476901216
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1759476901216
+metrics: null
+model_id: m-411b9a0aa94b4250bae33fa668a52601
+name: XGBClassifier With SMOTE
+params: null
+run_id: 710925566dc9448ab131ed7f481a804e
+run_link: null
+source: models:/m-411b9a0aa94b4250bae33fa668a52601
+status: READY
+status_message: null
+storage_location: file:///c:/Users/adijendx/OneDrive%20-%20Intel%20Corporation/Documents/MLOPS/mlruns/826412763467474429/models/m-411b9a0aa94b4250bae33fa668a52601/artifacts
+user_id: null
+version: 1

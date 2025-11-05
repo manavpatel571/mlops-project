@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/adijendx/OneDrive%20-%20Intel%20Corporation/Documents/MLOPS/mlruns/mlruns/674177521860048036/0da81a4306df4ed9aa9cfbc0bf476182/artifacts
+end_time: 1759928572619
+entry_point_name: ''
+experiment_id: '674177521860048036'
+lifecycle_stage: active
+run_id: 0da81a4306df4ed9aa9cfbc0bf476182
+run_name: XGBClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759928566394
+status: 3
+tags: []
+user_id: adijendx
