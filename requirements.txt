@@ -27,3 +27,5 @@ mlflow
 pydantic
 imbalanced-learn
 
+dagshub 
+mlflow
